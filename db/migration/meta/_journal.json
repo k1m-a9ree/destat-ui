@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1764499065655,
+      "tag": "0000_certain_supreme_intelligence",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1764509957745,
+      "tag": "0001_narrow_songbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1765046072115,
+      "tag": "0002_shallow_valeria_richards",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1765052323071,
+      "tag": "0003_worried_the_phantom",
+      "breakpoints": true
+    }
+  ]
+}
