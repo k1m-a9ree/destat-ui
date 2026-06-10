@@ -7,7 +7,7 @@
     "dev": "react-router dev",
     "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc",
-    "typegen": "npx supabase gen types typescript --project-id bdjqlsfxfjfsvmnxzxpv --schema public > database.types.ts"
+    "typegen": "npx supabase gen types typescript --project-id ekjrkgsvtbixnltmzdex --schema public > database.types.ts"
   },
   "dependencies": {
     "@rabby-wallet/rabbykit": "^0.1.4",
